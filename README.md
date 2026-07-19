@@ -1,0 +1,1 @@
+https://auth.gamemaker.io/oauth/authorize?response_type=code&client_id=0VNpC6XiZ8Wrq7kkNrj1Rl7v1N-TOjfOU0KynoOel38&redirect_uri=http%3A%2F%2F127.0.0.1%3A8889%2F&state=1637083853&prompt=login&code_challenge=BuoEBCydp7pTjfa77f6Jp2-XFiF7nEWnFM7_x_nNAAQ&code_challenge_method=S256&nonce=1741666326&scope=openid
